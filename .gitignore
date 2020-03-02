@@ -1,5 +1,4 @@
 node_modules/
-.vscode/
 .expo/
 npm-debug.*
 
@@ -16,3 +15,4 @@ build/
 .gradle
 local.properties
 *.iml
+config.bat
